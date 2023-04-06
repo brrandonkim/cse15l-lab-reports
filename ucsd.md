@@ -1,11 +1,10 @@
-## This is another heading
-**Hello, my name is Brandon**
-![Image](http://url/a.png)
+## First Lab
+**Hello, this is my second GitHub Page for CSE 15L**
+![Image](https://i.pinimg.com/originals/89/0f/92/890f92f1dba99065531aa2bc1b6b9c45.jpg)
 
-> block
+> I am a first year at Seventh College and my days consist of:
+1. practice
+2. classes
+3. homework
 
-1. apple
-2. orange
-3. banana
-
-`Inline code` with backticks	
+`UCSD Fencing` finished top 10 in the nation this season!
