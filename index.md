@@ -1,7 +1,7 @@
 # This is the Heading
 *Hello, my name is Brandon (Italicized)*
 
-[Link](https://docs.google.com/document/d/1mDBfM2ZUmTsA1PWHfRPCO6H-zHAr7aEKaPjRQxxYJlk/edit#)
+[Lab 1 - Group 5](https://docs.google.com/document/d/1mDBfM2ZUmTsA1PWHfRPCO6H-zHAr7aEKaPjRQxxYJlk/edit#)
 
 * red
 * green
