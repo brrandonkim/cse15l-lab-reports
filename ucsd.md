@@ -11,3 +11,17 @@
 
 `UCSD Fencing` finished top 10 in the nation this season!
 
+---
+[Lab 1 - Group 5](https://docs.google.com/document/d/1mDBfM2ZUmTsA1PWHfRPCO6H-zHAr7aEKaPjRQxxYJlk/edit#)
+My group members were:
+* Jing
+* Kainoa
+* Michael
+* Aavani
+* Angelina
+
+```
+# code block
+print 'rough start'
+print 'but we finished'
+```
