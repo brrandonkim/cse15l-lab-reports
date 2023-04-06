@@ -1,7 +1,7 @@
 # This is the Heading
 *Hello, my name is Brandon*
 
-[Link](http://a.com)
+[Link](https://docs.google.com/document/d/1mDBfM2ZUmTsA1PWHfRPCO6H-zHAr7aEKaPjRQxxYJlk/edit#)
 
 * red
 * green
@@ -15,7 +15,7 @@ Horizontal rule:
 
 ## This is another heading
 **Hello, my name is Brandon**
-![Image](http://url/a.png)
+![Image](https://cdn.kpbs.org/img/photos/2010/01/04/geisel-hr.jpg)
 
 > block
 
