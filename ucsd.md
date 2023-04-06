@@ -1,6 +1,8 @@
 ## First Lab
-**Hello, this is my second GitHub Page for CSE 15L**
+
 ![Image](https://i.pinimg.com/originals/89/0f/92/890f92f1dba99065531aa2bc1b6b9c45.jpg)
+
+**Hello, this is my second GitHub Page for CSE 15L**
 
 > I am a first year at Seventh College and my days consist of:
 1. practice
