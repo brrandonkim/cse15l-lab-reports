@@ -1,5 +1,5 @@
 # This is the Heading
-*Hello, my name is Brandon*
+*Hello, my name is Brandon (Italicized)*
 
 [Link](https://docs.google.com/document/d/1mDBfM2ZUmTsA1PWHfRPCO6H-zHAr7aEKaPjRQxxYJlk/edit#)
 
@@ -14,7 +14,7 @@ Horizontal rule:
 `Inline code` with backticks	
 
 ## This is another heading
-**Hello, my name is Brandon**
+**Hello, my name is Brandon (Bolded)**
 ![Image](https://cdn.kpbs.org/img/photos/2010/01/04/geisel-hr.jpg)
 
 > block
