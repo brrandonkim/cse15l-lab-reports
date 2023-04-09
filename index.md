@@ -11,7 +11,7 @@ Horizontal rule:
 
 ---
 
-`Inline code` with backticks	
+`this is like a bubble`	
 
 ## This is another heading
 **Hello, my name is Brandon (Bolded)**
