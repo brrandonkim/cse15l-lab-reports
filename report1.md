@@ -33,27 +33,12 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
   * Type **yes** and press enter, then give your password (it will look like nothing is typing into terminal, but it still is typing the keys you enter)
-  * The whole interaction should look something like this once you have successfully given your password and are logged in: 
-```
-# Now on remote server
-Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
-quota: No filesystem specified.
-Hello cs15lsp23zz, you are currently logged into ieng6-203.ucsd.edu
+  * The whole interaction should look something like this once you have successfully given your password and are logged in: <img width="613" alt="Screen Shot 2023-04-09 at 9 50 34 PM" src="https://user-images.githubusercontent.com/110199983/230828302-bbafe709-918a-4e68-b5dc-24ce7b2a1c46.png">
 
-You are using 0% CPU on this system
-
-Cluster Status 
-Hostname     Time    #Users  Load  Averages  
-ieng6-201   23:25:01   0  0.08,  0.17,  0.11
-ieng6-202   23:25:01   1  0.09,  0.15,  0.11
-ieng6-203   23:25:01   1  0.08,  0.15,  0.11
-
-Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
-```
   * Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! We call your computer the client and the computer in the basement the server based on how you are connected.
 
 **Step 3: Let's Try to Run Some Commands**
-1. Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times in different ways on your computer after ssh-ing (use the terminal in VScode) 
+1. Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times on your computer after ssh-ing (use the terminal in VScode) 
 2. Here are some specific useful commands to try:
 
   * `cd ~`
