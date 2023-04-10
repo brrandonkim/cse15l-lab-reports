@@ -2,6 +2,7 @@
 
 This post will teach you how to log into a course-specific account on `ieng6`. 
 
+---
 **Step 1: Logging into your CSE 15L Account**
 
 1. Click this link: [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
@@ -13,6 +14,7 @@ This post will teach you how to log into a course-specific account on `ieng6`.
 4. You should be set! Make sure to try logging in with your new username and password.
 > The purpose of this is to connect to your account to the **remote** server.
 
+---
 **Step 2: Downloading and Setting Up Visual Studio Code**
 
 1. Click this link to download *VSCode*: [VSCode](https://code.visualstudio.com/)
@@ -38,6 +40,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
   * Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! We call your computer the client and the computer in the basement the server based on how you are connected.
 
+---
 **Step 3: Let's Try to Run Some Commands**
 1. Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times on your computer after ssh-ing (use the terminal in VScode) 
 2. Here are some specific useful commands to try:
@@ -59,3 +62,6 @@ These next ones need specific files or names:
   * Ctrl-D
   * Run the command `exit`
 > You can also open more terminals in VSCode (there is a little + button at the top of the terminal window where you can create another).
+---
+
+## That's all! Congrats on your initiation to CSE 15L!
