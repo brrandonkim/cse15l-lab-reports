@@ -18,8 +18,37 @@ This post will teach you how to log into a course-specific account on `ieng6`.
 1. Click this link to download *VSCode*: [VSCode](https://code.visualstudio.com/)
   * Please download the version based on your operating system.
   * Depending on what operating system and settings, open *VSCode* and it should look similar to this: <img width="1284" alt="Screen Shot 2023-04-09 at 2 49 37 AM" src="https://user-images.githubusercontent.com/110199983/230766072-189623b9-ee71-4d80-9611-2974669f1818.png">
-  * Keep in mind, whenever you see a chunk of code in light gray, it is specifying that the code block is running on the remote server. For example:
-    `  $ this is a command to the remote server`
+  * Keep in mind, whenever you see a chunk of code in light gray, it is specifying that the code block is running on the remote server. And remember that the $ is not for you to type in! It’s just a convention for how we write commands. For example:
+    `$ this is a command to the remote server`
+2. **(Windows only)** You must install `git` if you are a Windows user. If you are using Mac you may skip to the next step. Click this link to download git: [Git for Windows](https://gitforwindows.org/)
+3. Once installed, follow these upcoming steps to set your default terminal to use the newly-installed `git bash` in Visual Studio Code: 
+  * Click this link to use git bash: [Git Bash Tutorial](https://stackoverflow.com/a/50527994)
+  * Then, to use `ssh`, open a terminal in VScode. (Mac Users: Look at the top of the screen and click *View* → *Terminal.* Windows Users: Terminal → New Terminal menu option). It should look like this, but with the `xx` replaced by the letters in your course-specific account.
+  `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
+  * Since this is the first time you’ve connected to this server, you will get a message like this: 
+```
+# ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+```
+  * Type **yes** and press enter, then give your password (it will look like nothing is typing into terminal, but it still is typing the keys you enter)
+  * The whole interaction should look something like this once you have successfully given your password and are logged in: 
+```
+# Now on remote server
+Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
+quota: No filesystem specified.
+Hello cs15lsp23zz, you are currently logged into ieng6-203.ucsd.edu
 
+You are using 0% CPU on this system
+
+Cluster Status 
+Hostname     Time    #Users  Load  Averages  
+ieng6-201   23:25:01   0  0.08,  0.17,  0.11
+ieng6-202   23:25:01   1  0.09,  0.15,  0.11
+ieng6-203   23:25:01   1  0.08,  0.15,  0.11
+
+Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
+```
 **Step 3: Let's Try to Run Some Commands**
 
