@@ -33,6 +33,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
   * Type **yes** and press enter, then give your password (it will look like nothing is typing into terminal, but it still is typing the keys you enter)
+  <img width="538" alt="Screen Shot 2023-04-09 at 9 53 17 PM" src="https://user-images.githubusercontent.com/110199983/230828651-d5bbaebd-a2b8-4215-9503-dc5d01aace1c.png">
   * The whole interaction should look something like this once you have successfully given your password and are logged in: <img width="613" alt="Screen Shot 2023-04-09 at 9 50 34 PM" src="https://user-images.githubusercontent.com/110199983/230828302-bbafe709-918a-4e68-b5dc-24ce7b2a1c46.png">
 
   * Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! We call your computer the client and the computer in the basement the server based on how you are connected.
