@@ -44,8 +44,12 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
   * `cd ~`
   * `cd`
+<img width="494" alt="Screen Shot 2023-04-09 at 9 57 20 PM" src="https://user-images.githubusercontent.com/110199983/230829040-6c506b40-2b24-4c27-b2aa-d79579a4388d.png">
   * `ls -lat`
+<img width="461" alt="Screen Shot 2023-04-09 at 9 58 12 PM" src="https://user-images.githubusercontent.com/110199983/230829121-170e9fa8-6bc3-4091-971f-5438cf86ad99.png">
   * `ls -a`
+<img width="1151" alt="Screen Shot 2023-04-09 at 9 58 45 PM" src="https://user-images.githubusercontent.com/110199983/230829184-92bbf9d3-2f58-4097-a91a-afa2966ce4e0.png">
+These next ones need specific files or names:
   * `ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc`, where the abc is one of the other group members’ username
   * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
   * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
