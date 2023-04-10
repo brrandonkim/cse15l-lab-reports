@@ -59,7 +59,7 @@ These next ones need specific files or names:
   * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 3. To log out of the remote server in your terminal (if needed), you can use:
 
-  * Ctrl-D
+  * Ctrl+D
   * Run the command `exit`
 > You can also open more terminals in VSCode (there is a little + button at the top of the terminal window where you can create another).
 ---
