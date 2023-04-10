@@ -62,6 +62,7 @@ These next ones need specific files or names:
   * Ctrl+D
   * Run the command `exit`
 > You can also open more terminals in VSCode (there is a little + button at the top of the terminal window where you can create another).
+
 ---
 
 ## That's all! Congrats on your initiation to CSE 15L!
