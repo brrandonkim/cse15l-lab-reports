@@ -2,7 +2,7 @@
 
 <img width="663" alt="Screen Shot 2023-05-10 at 8 04 19 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/46187b7c-728e-4916-b8f8-81024aaee8a4">
 
-* The methods handle, handleRequest, and start were called.
+* The methods `handle`, `handleRequest`, and `start` were called.
 <img width="323" alt="Screen Shot 2023-05-10 at 5 43 11 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/879baec9-d636-46db-a2d8-65e677dbbcd6">
 
 * Everything that's in the method's body are relevant. The class `Handler` uses sets of if and else statements to produce and output that either adds the message or shows the message "404 not found"
@@ -30,6 +30,7 @@ public void testReversedInPlaceOne() {
 }
 ```
 * Symptom: 
+
 <img width="560" alt="Screen Shot 2023-04-24 at 11 24 07 PM" src="https://user-images.githubusercontent.com/110199983/234174026-341691e5-0ead-4f3c-8bb7-2d80260644fe.png">
 
 
