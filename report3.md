@@ -93,6 +93,7 @@ and so on...
 ```
 
 When using the `-size` command, we must set a certain sie we are looking for, or higher/lower than the size of the file we request. In this case, I asked terminal to search for files in technical that are under 1 megabyte, and it listed every single file that was under one megabyte. This is advantageous since it enables size-based file filtering.  You may search for files by size or by size range with the -size option. Most commonly used by many people: when looking for files that fit a specific size requirement, like locating huge files, it can help discover what is using up a lot of disk space or locate little files that might require more investigation.
+
 ---
 
 ## Using ChatGPT as a tool in Lab Report 3
