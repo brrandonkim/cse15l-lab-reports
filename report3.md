@@ -101,7 +101,7 @@ When using the `-size` command, we must set a certain sie we are looking for, or
 I typed into ChatGPT: What are a few command-line options for the bash command find?
 
 **ChatGPT:**
-
+```
 The find command in Bash provides a wide range of command-line options to customize and refine the search criteria. Here are a few commonly used options:
 
 -name: Matches files and directories based on their names using wildcards or regular expressions. For example, -name "*.txt" will find all files with the .txt extension.
@@ -119,6 +119,6 @@ The find command in Bash provides a wide range of command-line options to custom
 -prune: Excludes certain directories from the search. It can be used to prevent the find command from descending into specific directories.
 
 These are just a few examples of the command-line options available for the find command in Bash. The find command is quite powerful and flexible, allowing you to combine multiple options to create complex search queries based on your requirements. You can refer to the find command's documentation or use the man find command in the terminal for more detailed information about all the available options.
-
+```
 
 ChatGPT provided a good number of bash commands that are similar or relate to the `-find` command; with the small summarization of each code I was able to understand and use ChatGPT again to dive deeper into the full functionality of the bash commands I chose. Furthermore, I chose the commands that appeared most intriguing, applied it to the repository we had, and constructed the wider applications of these alternatives (the reasons we want to utilize them). I spent a lot of time searching for possibilities before finding ChatGPT, which gathered several of them in one location for me to pick from.
