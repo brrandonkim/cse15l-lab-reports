@@ -12,7 +12,7 @@ technical/911report/preface.txt
 technical/government/Gen_Account_Office/ai00134.txt
 ```
 
-THe variation `-name` returns a file's location based on its name. We can use this to quickly get the path to a file so that we can utilize it later in our code and locate files that are deeply buried within several directories.
+The variation `-name` returns a file's location based on its name. We can use this to quickly get the path to a file so that we can utilize it later in our code and locate files that are deeply buried within several directories.
 ---
 
 ## Example 2: -type
