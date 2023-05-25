@@ -8,8 +8,8 @@ With the help of ChatGPT, it directed me to a variation of find: `-name`
 % find technical -name preface.txt
 technical/911report/preface.txt
 
-% find technical -name ai00134.txt
-technical/government/Gen_Account_Office/ai00134.txt
+% find technical -name pmed.0020074.txt
+technical/plos/pmed.0020074.txt
 ```
 
 The variation `-name` returns a file's location based on its name. We can use this to quickly get the path to a file so that we can utilize it later in our code and locate files that are deeply buried within several directories.
