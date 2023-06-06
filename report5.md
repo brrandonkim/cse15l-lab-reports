@@ -26,7 +26,7 @@ I am using my personal Macbook Pro 14" with the new Silicon Chip, running MacOS,
 ---
 
 
-My `Script.sh` is supposed to run `ReversibleChecker.java` and when I input a string that is the same word when reverset, the code should echo "The string is reverisble". However, I did not input any string and yet it still passes the test when it should not. The code should actually output: "The string is not reversible". I can't seem to figure out the issue because my VSCode does not point out any errors, please help me out.
+My `Script.sh` is supposed to run `ReversibleChecker.java` and when I input a string that is the same word when reverse, the code should echo "The string is reversible". However, I did not input any string and yet it still passes the test when it should not. The code should actually output: "The string is not reversible" or not have either output. I can't seem to figure out the issue because my VSCode does not point out any errors, please help me out.
 
 **TA's Response:**
 
