@@ -3,9 +3,11 @@
 
 I am using my personal Macbook Pro 14" with the new Silicon Chip, running MacOS, and using VSCode to program and edit.
 
+
 **My Output:**
 
 <img width="410" alt="Screen Shot 2023-06-05 at 11 21 45 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/595a6475-2bf8-4776-95d8-777f4d81651b">
+
 
 **My Code**
 
