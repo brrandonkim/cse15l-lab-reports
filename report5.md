@@ -43,3 +43,52 @@ Thank you for calling out my silly error. After pointing me in the direction of 
 **Setup Info:**
 
 <img width="124" alt="Screen Shot 2023-06-05 at 11 23 57 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/d43204d7-efe0-4fc1-8641-229a2fda34e9">
+
+Before ReversibleChecker.java was edited:
+
+```
+import java.util.Scanner;
+
+public class ReversibleChecker {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter a string: ");
+        String input = scanner.nextLine();
+
+        String reversed = reverseString(input);
+
+        if (input.equalsIgnoreCase(reversed)) {
+            System.out.println("The string is reversible.");
+        } else {
+            System.out.println("The string is not reversible.");
+        }
+
+        scanner.close();
+    }
+
+    private static String reverseString(String input) {
+        StringBuilder reversed = new StringBuilder();
+        for (int i = input.length() - 1; i >= 0; i--) {
+            reversed.append(input.charAt(i));
+        }
+        return reversed.toString();
+    }
+}
+```
+
+To trigger the bug, I compiled the code using `javac ReversibleChecker.java` then used `chmod +x Script.sh` and finally `./Script.sh` which introduces a bug by not providing any input when prompted for a string.
+
+In order to fix this issue, I had to modify the Java program to handle empty input correctly and return the proper result; by adding this after `String input = scanner.nextLine();"
+
+```
+if (input.isEmpty()) {
+            System.out.println("Empty input. Please provide a valid string.");
+        }
+```
+
+---
+
+**Reflection**
+
+I learned that `vim` was an extremely useful command line that helped me edit files remotely. Also it allows you to do all actions from the terminal. They have integrated instructions on how to use it, which I have not seen for any of the other commands, which intrigues me differently than the other command lines. It took me a little while to get used to, but once you get used to it, you pick up on how to use it quickly and effectively.
