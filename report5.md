@@ -28,7 +28,9 @@ My `Script.sh` is supposed to run `ReversibleChecker.java` and when I input a st
 
 The problem you stated is somewhat the answer to your problem. You need to include a variation in `ReversibleChecker.java` that gives an output when there is no string inputted by the user.
 
-**Reformed ReverisbileChecker.java**
+---
+
+**Reformed ReverisbileChecker.java:**
 
 <img width="461" alt="Screen Shot 2023-06-05 at 11 35 36 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/468a1587-43dd-4801-b8b9-4603420b3598">
 
@@ -38,6 +40,6 @@ Thank you for calling out my silly error. After pointing me in the direction of 
 
 ---
 
-**File Structure:**
+**Setup Info:**
 
 <img width="124" alt="Screen Shot 2023-06-05 at 11 23 57 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/d43204d7-efe0-4fc1-8641-229a2fda34e9">
