@@ -26,7 +26,7 @@ In order to see what files I had in my freshly cloned account, I used the comman
 
 <img width="439" alt="Screen Shot 2023-06-07 at 10 35 47 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/2b628fb7-beab-4820-a515-74c22e08835c">
 
-**Keys:** `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <down arrow> x33 <right arrow> x2 <a> <delete> <2> <esc> <:> <w> <q>`
+**Keys:** `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <down arrow>x33 <right arrow>x2 <a> <delete> <2> <esc> <:> <w> <q>`
 
 <img width="431" alt="Screen Shot 2023-06-07 at 10 44 16 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/a3c81d32-4f94-4e17-b40a-5635cbe23589">
 
