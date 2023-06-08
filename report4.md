@@ -37,7 +37,7 @@ To change `index1` to `index2` in `ListExamples.java`, I used the `vim` command 
 
 **Keys:** `<b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
 
-To check if my new changes pass the tests, I ran `test.sh` (typed in `bash test.sh`) using the `bash` command, hit `enter` and surely enough my changes passed both tests without failures.
+To check if my new changes pass the tests, I used the the `bash` command and ran `test.sh` (typed in `bash test.sh`) then hit `enter` and surely enough my changes passed both tests without failures.
 
 ## Step 9
 
@@ -45,5 +45,5 @@ To check if my new changes pass the tests, I ran `test.sh` (typed in `bash test.
 
 **Keys:** `<g> <i> <t> <space> <c> <o> <m> <m> <i> <t> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <space> <-> <m> <space> <"> <f> <i> <x> <e> <d> <space> <t> <e> <s> <t> <s> <"> <enter>`
 
-To commit my changes to my repository, I used the command `git commit` (typed in `git commit ListExamples.java -m "fixed tests"`) causing it to have the commit message `"fixed tests"` and saved into my personal github.
+To commit my changes to the repository, I used the command `git commit` (typed in `git commit ListExamples.java -m "fixed tests"`) causing it to have the commit message `"fixed tests"` and saved into my personal github.
 
