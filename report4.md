@@ -26,17 +26,24 @@ In order to see what files I had in my freshly cloned account, I used the comman
 
 <img width="439" alt="Screen Shot 2023-06-07 at 10 35 47 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/2b628fb7-beab-4820-a515-74c22e08835c">
 
-**Keys:** `<`
+**Keys:** `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <down arrow> x33 <right arrow> x2 <a> <delete> <2> <esc> <:> <w> <q>`
 
 <img width="431" alt="Screen Shot 2023-06-07 at 10 44 16 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/a3c81d32-4f94-4e17-b40a-5635cbe23589">
+
+To change `index1` to `index2` in `ListExamples.java`, I used the `vim` command (typed in `vim ListExamples.java`), hit `enter` and was presented with the code. Then I moved the cursor in terminal by using the down arrow key 33 times and the right arrow key twice. Then I used the append command `a`, which allows me to delete and add texts to the file, and deleted the 1 on `index1` and changed it to `index2` by using the keys `<delete> <2>`. Lastly, I had to save my changes, so I hit `esc` and used the command `:wq` to save and exit out of the `vim` editor.
 
 ## Step 8
 <img width="307" alt="Screen Shot 2023-06-07 at 10 45 34 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/6e5e5402-3ebf-4dc7-bbc8-f8836b124c3c">
 
-**Keys:** `<`
+**Keys:** `<b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
+
+To check if my new changes pass the tests, I ran `test.sh` (typed in `bash test.sh`) using the `bash` command, hit `enter` and surely enough my changes passed both tests without failures.
 
 ## Step 9
 
 <img width="416" alt="Screen Shot 2023-06-07 at 10 46 53 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/8abde857-ac6f-473b-b579-8ccdc81dd9e9">
 
-**Keys:** `<`
+**Keys:** `<g> <i> <t> <space> <c> <o> <m> <m> <i> <t> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <space> <-> <m> <space> <"> <f> <i> <x> <e> <d> <space> <t> <e> <s> <t> <s> <"> <enter>`
+
+To commit my changes to my repository, I used the command `git commit` (typed in `git commit ListExamples.java -m "fixed tests"`) causing it to have the commit message `"fixed tests"` and saved into my personal github.
+
