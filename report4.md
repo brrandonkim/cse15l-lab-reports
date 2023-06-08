@@ -4,7 +4,7 @@
 
 **Keys:** `<cmd-v> <enter> <"my password"> <enter>`
 
-From my computer, I had the login command copied onto my clipboard and used the pasted command, `cmd-v`, to quickly have the command on terminal and hit `enter` to prompt me to my password. Then I typed in my personal password and hit `enter` to log into my ieng6 account.
+From my Macbook, I had the login command copied onto my clipboard and used the pasted command, `cmd-v`, to quickly have the command on terminal and hit `enter` to prompt me to my password. Then I typed in my personal password and hit `enter` to log into my ieng6 account.
 
 ## Step 5
 
