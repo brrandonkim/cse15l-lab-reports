@@ -1,1 +1,1 @@
-Keys: <ctrl-v><enter>
+Keys: `<ctrl-v><enter>`
