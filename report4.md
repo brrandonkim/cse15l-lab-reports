@@ -3,6 +3,7 @@
 <img width="375" alt="Screen Shot 2023-06-07 at 10 21 44 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/0ec5e70d-3fc9-4c17-ae6c-68b75132e134">
 
 **Keys:** `<ctrl-v> <enter> <"my password"> <enter>`
+
 From my computer, I had the login command copied onto my clipboard and used the pasted command, `ctrl-v`, to quickly have the command on terminal and hit `enter` to prompt me to my password. Then I typed in my personal password and hit `enter` to log into my ieng6 account.
 
 ## Step 5
@@ -11,12 +12,15 @@ From my computer, I had the login command copied onto my clipboard and used the 
 
 **Keys:** `<ctrl-c> <ctrl-v> <enter>`
 
+Under Lab Tasks in the class website, I copied the link and the git clone command, using the copying command, `ctrl-c`, and pasting it into terminal, finally hitting `enter` to clone the lab files into my ieng6 account.
 
 ## Step 6
 
 <img width="448" alt="Screen Shot 2023-06-07 at 10 30 45 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/81282c90-ce85-4878-a215-4bc7bff04da5">
 
-**Keys:** `<`
+**Keys:** `<l> <s> <enter> <c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
+
+In order to see what files I had in my freshly cloned account, I used the command, `ls` to locate "lab7". Then I used the command, `cd` (cd lab7) to change my directory into where I needed to go. Lastly, I ran `test.sh` (bash test.sh), in order to see the amount of failed tests.
 
 ## Step 7
 
