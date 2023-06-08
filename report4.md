@@ -2,17 +2,17 @@
 
 <img width="375" alt="Screen Shot 2023-06-07 at 10 21 44 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/0ec5e70d-3fc9-4c17-ae6c-68b75132e134">
 
-**Keys:** `<ctrl-v> <enter> <"my password"> <enter>`
+**Keys:** `<cmd-v> <enter> <"my password"> <enter>`
 
-From my computer, I had the login command copied onto my clipboard and used the pasted command, `ctrl-v`, to quickly have the command on terminal and hit `enter` to prompt me to my password. Then I typed in my personal password and hit `enter` to log into my ieng6 account.
+From my computer, I had the login command copied onto my clipboard and used the pasted command, `cmd-v`, to quickly have the command on terminal and hit `enter` to prompt me to my password. Then I typed in my personal password and hit `enter` to log into my ieng6 account.
 
 ## Step 5
 
 <img width="420" alt="Screen Shot 2023-06-07 at 10 29 00 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/abeedeb9-b77e-4ea7-a53d-edf8b20e94f2">
 
-**Keys:** `<ctrl-c> <ctrl-v> <enter>`
+**Keys:** `<cmd-c> <cmd-v> <enter>`
 
-Under Lab Tasks in the class website, I copied the link and the git clone command, using the copying command, `ctrl-c`, and pasting it into terminal, finally hitting `enter` to clone the lab files into my ieng6 account.
+Under Lab Tasks in the class website, I copied the link and the git clone command, using the copying command, `cmd-c`, and pasting it into terminal, finally hitting `enter` to clone the lab files into my ieng6 account.
 
 ## Step 6
 
