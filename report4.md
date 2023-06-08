@@ -20,7 +20,7 @@ Under Lab Tasks in the class website, I copied the link and the git clone comman
 
 **Keys:** `<l> <s> <enter> <c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
 
-In order to see what files I had in my freshly cloned account, I used the command, `ls` to locate "lab7". Then I used the command, `cd` (`cd lab7`) to change my directory into where I needed to go. Lastly, I ran `test.sh` (`bash test.sh`), in order to see the amount of failed tests.
+In order to see what files I had in my freshly cloned account, I used the command, `ls` to locate "lab7". Then I used the command, `cd` (typed in `cd lab7`) to change my directory into where I needed to go. Lastly, I ran `test.sh` (typed in `bash test.sh`), in order to see the amount of failed tests.
 
 ## Step 7
 
