@@ -29,6 +29,8 @@ Keys: `<`
 
 Keys: `<`
 
-##Step 9
+## Step 9
 
 <img width="416" alt="Screen Shot 2023-06-07 at 10 46 53 PM" src="https://github.com/brrandonkim/cse15l-lab-reports/assets/110199983/8abde857-ac6f-473b-b579-8ccdc81dd9e9">
+
+Keys: `<`
